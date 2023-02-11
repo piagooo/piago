@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/piago/static/css/main.97c508b8.css",
+    "main.js": "/piago/static/js/main.c22e6026.js",
+    "static/js/787.71e672d5.chunk.js": "/piago/static/js/787.71e672d5.chunk.js",
+    "static/media/logo.svg": "/piago/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/piago/index.html",
+    "main.97c508b8.css.map": "/piago/static/css/main.97c508b8.css.map",
+    "main.c22e6026.js.map": "/piago/static/js/main.c22e6026.js.map",
+    "787.71e672d5.chunk.js.map": "/piago/static/js/787.71e672d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97c508b8.css",
+    "static/js/main.c22e6026.js"
+  ]
+}
