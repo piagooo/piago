@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import dog from './dog-cowboy.jpeg';
 import './App.css';
+import { createPortal } from 'react-dom';
 
 function App() {
   return (
@@ -19,6 +20,11 @@ function App() {
           Links
         </a>
         <img src = {dog} alt = "Dog Cowboy" height = {200}/>
+
+        <button class= "button dog1" type = "button" onclick="alert('Hello');"> click here for more cowboys </button>
+        
+            
+        
       </header>
     </div>
   );

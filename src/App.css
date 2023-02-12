@@ -24,11 +24,16 @@
   color: rgb(255, 255, 255);
 }
 
+.dog1 {
+  color: #000000;
+  background-color: #dcb657;
+  margin: 5px;
+}
+
 .App-link {
   color: #7cc3d5;
   line-height: 15mm;
 }
-
 
 
 @keyframes App-logo-spin {
