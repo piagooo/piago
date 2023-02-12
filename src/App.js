@@ -1,7 +1,6 @@
 import logo from './logo.svg';
 import dog from './dog-cowboy.jpeg';
 import './App.css';
-import { createPortal } from 'react-dom';
 
 function App() {
   return (
