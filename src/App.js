@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import dog from './dog-cowboy.jpeg';
 import './App.css';
 
 function App() {
@@ -7,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Making a website (February 11th, 2023)
         </p>
         <a
           className="App-link"
@@ -15,8 +16,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Links
         </a>
+        <img src = {dog} alt = "Dog Cowboy" height = {200}/>
       </header>
     </div>
   );
